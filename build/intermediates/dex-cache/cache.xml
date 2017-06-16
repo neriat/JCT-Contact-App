@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\JCT_Contact\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="D:\Android\JCT_Contact\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_038764b3f4bd187af7276e277d5eeda60f3e52b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\JCT_Contact\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cc3a0b82f91dc634262ae067688600b33d83fb">
+        <dex dex="D:\Android\JCT_Contact\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8fc440b04e49591da1a12798dd4097fe0565126c\classes.dex" />
+    </item>
+
+</items>
